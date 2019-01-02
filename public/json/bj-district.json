@@ -1,0 +1,86 @@
+[
+    {
+        "district_name": "不限",
+        "district_id": "0"
+    },
+    {
+        "district_name":"海淀",
+        "district_id":"173"
+    },
+    {
+        "district_name": "朝阳",
+        "district_id": "174"
+    },
+    {
+        "district_name": "东城",
+        "district_id": "175"
+    },
+    {
+        "district_name": "西城",
+        "district_id": "176"
+    },
+    {
+        "district_name": "崇文",
+        "district_id": "177"
+    },
+    {
+        "district_name": "宣武",
+        "district_id": "178"
+    },
+    {
+        "district_name": "丰台",
+        "district_id": "179"
+    },
+    {
+        "district_name": "石景山",
+        "district_id": "180"
+    },
+    {
+        "district_name": "昌平",
+        "district_id": "185"
+    },
+    {
+        "district_name": "通州",
+        "district_id": "183"
+    },
+    {
+        "district_name": "大兴",
+        "district_id": "182"
+    },
+    {
+        "district_name": "顺义",
+        "district_id": "184"
+    },
+    {
+        "district_name": "房山",
+        "district_id": "181"
+    },
+    {
+        "district_name": "密云",
+        "district_id": "186"
+    },
+    {
+        "district_name": "门头沟",
+        "district_id": "190"
+    },
+    {
+        "district_name": "怀柔",
+        "district_id": "187"
+    },
+    {
+        "district_name": "平谷",
+        "district_id": "189"
+    },
+    {
+        "district_name": "延庆",
+        "district_id": "188"
+    },
+    {
+        "district_name": "燕郊",
+        "district_id": "3283"
+    },
+    {
+        "district_name": "北京周边",
+        "district_id": "103680"
+    }
+]

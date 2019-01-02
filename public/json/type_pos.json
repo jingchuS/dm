@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "name": "热门",
+    "type": [
+      { "type_id": 1, "name": "全部", "url": "" },
+      { "type_id": 2, "name": "潮兼职", "url": "" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "简单易做",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "传单派发",
+        "url": "",
+        "job_type":"1"
+      },
+      {
+        "type_id": 2,
+        "name": "地推拉访",
+        "url": "",
+        "job_type": "9"
+      },
+      {
+        "type_id": 3,
+        "name": "打包分拣",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "充场",
+        "url": ""
+      },
+      {
+        "type_id": 5,
+        "name": "问卷调查",
+        "url": ""
+      },
+      {
+        "type_id": 6,
+        "name": "审核录入",
+        "url": ""
+      },
+      {
+        "type_id": 7,
+        "name": "保洁",
+        "url": "",
+        "job_type": "47"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "跑腿办事",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "挂号排队",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "送餐员",
+        "url": "",
+        "job_type": "16"
+      },
+      {
+        "type_id": 3,
+        "name": "宠物寄养",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "车票代购",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "室内推荐",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "话务客服",
+        "url": "",
+        "job_type": "3"
+      },
+      {
+        "type_id": 2,
+        "name": "促销导购",
+        "url": "",
+        "job_type": "2"
+      },
+      {
+        "type_id": 3,
+        "name": "文员",
+        "url": "",
+        "job_type": "28"
+      },
+      {
+        "type_id": 4,
+        "name": "展会协助",
+        "url": "",
+        "job_type": "12"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "体力达人",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "餐饮工",
+        "url": "",
+        "job_type": "23"
+      },
+      {
+        "type_id": 2,
+        "name": "服务员",
+        "url": "",
+        "job_type": "6"
+      },
+      {
+        "type_id": 3,
+        "name": "安保",
+        "url": "",
+        "job_type": "15"
+      },
+      {
+        "type_id": 4,
+        "name": "会展执行",
+        "url": ""
+      },
+      {
+        "type_id": 5,
+        "name": "快递配送",
+        "url": "",
+        "job_type": "49"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "专业技能",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "司机代驾",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "技师特工",
+        "url": ""
+      },
+      {
+        "type_id": 3,
+        "name": "美容美发",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "月嫂阿姨",
+        "url": ""
+      },
+      {
+        "type_id": 5,
+        "name": "销售",
+        "url": ""
+      },
+      {
+        "type_id": 6,
+        "name": "房产经纪人",
+        "url": ""
+      },
+      {
+        "type_id": 7,
+        "name": "保险经纪人",
+        "url": ""
+      },
+      {
+        "type_id": 8,
+        "name": "在线老师",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "演艺达人",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "礼仪模特",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "群众演员",
+        "url": ""
+      },
+      {
+        "type_id": 3,
+        "name": "演出",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "主播",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "特色职位",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "校园代理",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "家教助教",
+        "url": ""
+      },
+      {
+        "type_id": 3,
+        "name": "健身教练",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "翻译",
+        "url": ""
+      },
+      {
+        "type_id": 5,
+        "name": "婚礼主持",
+        "url": ""
+      },
+      {
+        "type_id": 6,
+        "name": "摄影摄像",
+        "url": ""
+      },
+      {
+        "type_id": 7,
+        "name": "旅行导游",
+        "url": ""
+      },
+      {
+        "type_id": 8,
+        "name": "美工设计",
+        "url": ""
+      },
+      {
+        "type_id": 9,
+        "name": "创意策划",
+        "url": ""
+      },
+      {
+        "type_id": 10,
+        "name": "财务会计",
+        "url": ""
+      },
+      {
+        "type_id": 11,
+        "name": "项目外包",
+        "url": ""
+      },
+      {
+        "type_id": 12,
+        "name": "软件开发",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "优秀青年",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "志愿者",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "救生员",
+        "url": ""
+      },
+      {
+        "type_id": 3,
+        "name": "实习生",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "社会义工",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "其他",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "临时工",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "其他",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "在家赚钱",
+    "type": [
+      {
+        "type_id": 1,
+        "name": "APP试玩",
+        "url": ""
+      },
+      {
+        "type_id": 2,
+        "name": "优惠券推广",
+        "url": ""
+      },
+      {
+        "type_id": 3,
+        "name": "在线问卷",
+        "url": ""
+      },
+      {
+        "type_id": 4,
+        "name": "微商",
+        "url": ""
+      },
+      {
+        "type_id": 5,
+        "name": "注册任务",
+        "url": ""
+      },
+      {
+        "type_id": 6,
+        "name": "游戏推广",
+        "url": ""
+      },
+      {
+        "type_id": 7,
+        "name": "POS机代理",
+        "url": ""
+      },
+      {
+        "type_id": 8,
+        "name": "其他兼职",
+        "url": ""
+      }
+    ]
+  }
+]

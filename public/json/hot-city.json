@@ -1,0 +1,140 @@
+[
+  {
+    "name": "北京",
+    "id": 1,
+    "address":"bj"
+  },
+  {
+    "name": "上海",
+    "id": 2,
+    "address": "sh"
+  },
+  {
+    "name": "广州",
+    "id": 3,
+    "address": "gz"
+  },
+  {
+    "name": "深圳",
+    "id": 4,
+    "address": "sz"
+  },
+  {
+    "name": "石家庄",
+    "id": 5,
+    "address": "szj"
+  },
+  {
+    "name": "郑州",
+    "id": 6,
+    "address": "zz"
+  },
+  {
+    "name": "济南",
+    "id": 7,
+    "address": "jn"
+  },
+  {
+    "name": "青岛",
+    "id": 8,
+    "address": "qd"
+  },
+  {
+    "name": "合肥",
+    "id": 9,
+    "address": "hf"
+  },
+  {
+    "name": "太原",
+    "id": 10,
+    "address": "ty"
+  },
+  {
+    "name": "西安",
+    "id": 11,
+    "address": "xa"
+  },
+  {
+    "name": "武汉",
+    "id": 12,
+    "address": "wh"
+  },
+  {
+    "name": "长沙",
+    "id": 13,
+    "address": "cs"
+  },
+  {
+    "name": "长春",
+    "id": 14,
+    "address": "cc"
+  },
+  {
+    "name": "福州",
+    "id": 15,
+    "address": "fz"
+  },
+  {
+    "name": "昆明",
+    "id": 16,
+    "address": "km"
+  },
+  {
+    "name": "天津",
+    "id": 17,
+    "address": "tj"
+  },
+  {
+    "name": "重庆",
+    "id": 18,
+    "address": "ch"
+  },
+  {
+    "name": "杭州",
+    "id": 19,
+    "address": "hz"
+  },
+  {
+    "name": "贵阳",
+    "id": 20,
+    "address": "gy"
+  },{
+    "name": "成都",
+    "id": 21,
+    "address": "cd"
+},
+{
+    "name": "沈阳",
+    "id": 22,
+    "address": "sy"
+},
+{
+    "name": "大连",
+    "id": 23,
+    "address": "dl"
+},
+{
+    "name": "南京",
+    "id": 24,
+    "address": "nj"
+},
+{
+    "name": "苏州",
+    "id": 25,
+    "address": "sz"
+},{
+    "name": "南昌",
+    "id": 26,
+    "address": "nc"
+},
+{
+    "name": "厦门",
+    "id": 27,
+    "address": "xm"
+},
+{
+  "name": "西宁",
+  "id": 28,
+    "address": "xn"
+}
+]
